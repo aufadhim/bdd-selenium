@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # BDD-Cucumber-Gherkin-Selenium
 ## Running Tests
 
@@ -16,4 +15,3 @@ mvn verify -DskipTests
 ### Thanks
 =======
 # bdd-selenium
->>>>>>> 13d12edac587067db5e2f1702a5483275302618d
